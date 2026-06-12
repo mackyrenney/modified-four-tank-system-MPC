@@ -14,6 +14,7 @@ This implementation uses MATLAB's Control System ToolBox, ran using MATLAB_R2025
 
 
 
+
 **Model Piping and Instrumentation Diagram**
 ---
 <img width="561" height="650" alt="Screenshot 2026-06-04 at 4 22 13 PM" src="https://github.com/user-attachments/assets/c22cba68-2c0d-4508-bbf3-06dab4407c67" />
